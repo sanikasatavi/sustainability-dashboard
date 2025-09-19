@@ -46,4 +46,4 @@ The dashboard delivers the following key insights:
 ---
 
 ### 6. Screenshot
-![Here is the dashboard screenshot](https://github.com/sanikasatavi/sustainability-dashboard/blob/main/sustainability-dash.png)
+![Here is the dashboard screenshot](https://github.com/sanikasatavi/sustainability-dashboard/blob/main/sustainability-dash%20(2).png)
